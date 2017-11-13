@@ -1,0 +1,14 @@
+<settings>
+    <global>
+        <X>0</X>
+        <Y>440</Y>
+        <Zoom>50</Zoom>
+        <Opacity>75</Opacity>
+        <ShowPC>true</ShowPC>
+        <ShowNPC>true</ShowNPC>
+        <ShowMob>true</ShowMob>
+        <ShowMarker>true</ShowMarker>
+        <ShowTargetLine>true</ShowTargetLine>
+        <Ranges></Ranges>
+    </global>
+</settings>
