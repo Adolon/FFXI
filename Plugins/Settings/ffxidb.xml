@@ -11,4 +11,9 @@
         <ShowTargetLine>true</ShowTargetLine>
         <Ranges></Ranges>
     </global>
+    <Maniel>
+        <Y>448</Y>
+        <X>-8</X>
+        <Zoom>24</Zoom>
+    </Maniel>
 </settings>
