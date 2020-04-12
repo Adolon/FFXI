@@ -12,8 +12,9 @@
         <Ranges></Ranges>
     </global>
     <Maniel>
-        <Y>448</Y>
+        <!--449-->
+        <Y>400</Y>
         <X>-8</X>
-        <Zoom>44</Zoom>
+        <Zoom>24</Zoom>
     </Maniel>
 </settings>

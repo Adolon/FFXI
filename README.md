@@ -1,8 +1,3 @@
-**config**
-
-Sets clipping plane to 20.
-
-
 **ffxidb**
 
 Positions the minimap to the left side of the screen. Its position is just high enough to not obstruct the lower left menus when maximized and low enough to not obstruct the equipment and auction house windows.
