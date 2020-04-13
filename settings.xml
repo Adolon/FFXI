@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <autoload>
+    <addon>TParty</addon>
+    <plugin>Config</plugin>
+    <plugin>FFXIDB</plugin>
+    <plugin>Timers</plugin>
+    <plugin>Guildwork</plugin>
+  </autoload>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <uiscale>1</uiscale>
+  </profile>
+</settings>
