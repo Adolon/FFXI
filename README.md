@@ -1,6 +1,6 @@
 **ffxidb**
 
-Positions the minimap to the left side of the screen. Its position is just high enough to not obstruct the lower left menus when maximized and low enough to not obstruct the equipment and auction house windows.
+Positions the minimap to the right side of the screen. Its position is to the left of the party HP/MP bars. Looks the best if the text box has its width slightly reduced, so that the minimap fits in between the gap.
 
 
 **init**
